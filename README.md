@@ -15,9 +15,13 @@ Move your **index finger** to move the cursor, and perform mouse clicks using **
 
 ---
 
+
+
 ## 📦 Requirements
 
 Make sure you have **Python 3.7+** installed.
+
+
 
 Install required libraries:
 
@@ -25,10 +29,16 @@ Install required libraries:
 pip install opencv-python mediapipe pyautogui
 
 
+
+
+
 finger_control_mouse/
 │
 ├── Finger_control_mouse.py       # Main Python script
 └── README.md             # Project documentation
+
+
+
 
 
 🧠 How It Works
@@ -45,6 +55,8 @@ Middle + Ring → Right Click
 Uses pyautogui to control mouse movement and clicks
 
 
+
+
 Controls:
 
 Move index finger → Move cursor
@@ -56,8 +68,12 @@ Touch middle + ring → Right click
 Press q → Quit
 
 
+
+
 📄 License
 MIT License – feel free to use and modify!
+
+
 
 🙋‍♂️ Author
 Developed by Sumit Patil
